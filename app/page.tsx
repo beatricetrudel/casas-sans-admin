@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import getCurrentUser from "./actions/getCurrentsUser";
 import getListings, { IListingsParams } from "./actions/getListings";
 import Carousel from "./components/Carousel";
